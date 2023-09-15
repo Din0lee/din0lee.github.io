@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Momentum.git/static/css/main.8d6a17ca.css",
+    "main.js": "/Momentum.git/static/js/main.39a45251.js",
+    "index.html": "/Momentum.git/index.html",
+    "main.8d6a17ca.css.map": "/Momentum.git/static/css/main.8d6a17ca.css.map",
+    "main.39a45251.js.map": "/Momentum.git/static/js/main.39a45251.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d6a17ca.css",
+    "static/js/main.39a45251.js"
+  ]
+}
